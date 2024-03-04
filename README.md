@@ -26,6 +26,6 @@ This command will back up files from the `/home/user/documents` directory to the
 Marco Pianu
 
 ## License
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
